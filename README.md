@@ -14,9 +14,8 @@ A live demo of the Photo Book application can be accessed [here](https://pawelsl
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](https://github.com/pawelslatwyezcky/Photo-Book/blob/main/photobook_1.png?raw=true)
+![Screenshot 2](https://github.com/pawelslatwyezcky/Photo-Book/blob/main/photobook_2.png?raw=true)
 
 ## Technologies Used
 
@@ -25,6 +24,7 @@ A live demo of the Photo Book application can be accessed [here](https://pawelsl
 - Express
 - MongoDB
 - NodeJS
+- Material UI
 
 ## Contributing
 
